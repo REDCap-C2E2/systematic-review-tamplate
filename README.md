@@ -16,3 +16,7 @@ Show standardised record look likes for upload into REDCap.
 ### Changes to be made for records that require consensus decison
 - unhide hidden fields
 - change form status from "Complete" to "Incomplete"
+
+### Script to tabulate contingency table at each stage, agreement breakdown of reviewer decisions
+
+### Script to tabulate final decsions after each stage (Selection and Screening, Eligibility)
