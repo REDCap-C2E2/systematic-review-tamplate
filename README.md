@@ -14,5 +14,5 @@ Show standardised record look likes for upload into REDCap.
 - Included and Data Abstraction
 
 ### Changes to be made for records that require consensus decison
-** unhide hidden fields
-** change form status from "Complete" to "Incomplete"
+- unhide hidden fields
+- change form status from "Complete" to "Incomplete"
