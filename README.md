@@ -1,4 +1,4 @@
-# systematic-review-tamplate
+# systematic-review-template
 Template to set up systematic review citation management within REDCap
 
 ## Database sources for example
