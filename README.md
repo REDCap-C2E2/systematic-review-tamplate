@@ -20,3 +20,8 @@ Show standardised record look likes for upload into REDCap.
 ### Script to tabulate contingency table at each stage, agreement breakdown of reviewer decisions
 
 ### Script to tabulate final decsions after each stage (Selection and Screening, Eligibility)
+
+| - | I | E | U |
+| I | - | - | - |
+| E | - | - | - |
+| U | - | - | - |
