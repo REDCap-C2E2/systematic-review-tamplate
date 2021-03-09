@@ -19,7 +19,7 @@ Show standardised record look likes for upload into REDCap.
 
 ### Script to tabulate contingency table at each stage, agreement breakdown of reviewer decisions
 
----| I | E | U 
+X| I | E | U 
 --- | --- | --- 
 I | n | n | n | 
 E | n | n | n | 
