@@ -8,4 +8,5 @@ Medline, Embase for example
 ### Data Standardisation
 Show standardised record look likes for upload into REDCap.
 
-## Script to change the study at mass after each stage of the project [Selection and Screening, Eligibility, Included and Data Abstraction]
+## Script to change the study at mass after each stage of the project 
+[Selection and Screening, Eligibility, Included and Data Abstraction]
