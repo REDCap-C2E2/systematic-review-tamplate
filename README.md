@@ -21,7 +21,7 @@ Show standardised record look likes for upload into REDCap.
 
 ### Script to tabulate final decsions after each stage (Selection and Screening, Eligibility)
 
- :-:|  I |  E |  U 
- I | :-: | :-: | -
- E | - | - | -
- U | - | - | - 
+ |X|  I |  E |  U 
+ |I | :-: | :-: | -
+ |E | - | - | -
+ |U | - | - | - 
